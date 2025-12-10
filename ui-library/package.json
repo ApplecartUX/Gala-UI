@@ -1,0 +1,6 @@
+{
+    "name": "@acme/ui-library",
+    "version": "0.1.0",
+    "main": "src/index.js",
+    "module": "src/index.js"
+  }
