@@ -1,0 +1,8 @@
+{
+  "name": "gala-ui",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
